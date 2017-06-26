@@ -1,0 +1,8 @@
+{
+    number : int
+    string_val : char
+    number = 45
+    string_val = "Hello World!"
+    printf("%s %i", string_val, number)
+    return(0)
+}

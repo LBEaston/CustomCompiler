@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Custom/CustomProgram.cs">
+    <Files>
+      <File FileName="Custom/Custom.cs" Line="16" Column="32" />
+      <File FileName="Custom/TokenStream.cs" Line="150" Column="7" />
+      <File FileName="Custom/Parser.cs" Line="16" Column="31" />
+      <File FileName="Custom/AstNode.cs" Line="34" Column="30" />
+      <File FileName="Custom/Tests.cs" Line="99" Column="4" />
+      <File FileName="Custom/CustomProgram.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Custom" expanded="True">
+            <Node name="Parser.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
