@@ -1,3 +1,8 @@
+
+/*
+ * Parser for simple C-like language
+ */
+
 #include "Chain_Buffer.h"
 #include "Parser.h"
 #include "stretchy_buffer.h"
